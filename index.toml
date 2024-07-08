@@ -6,8 +6,23 @@ hash = "ea42747450c6c385925895e98de7c1347c6e24b034bbaee198d5dfda4bb8eb1d"
 metafile = true
 
 [[files]]
+file = "mods/archers.pw.toml"
+hash = "225bc67c276242c0a2201314d533f2cbf97f5ba86904bf808600152a9d6f975f"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
+metafile = true
+
+[[files]]
+file = "mods/azurelib-armor.pw.toml"
+hash = "70f3988fc144b7da812dfa6be45720e13980a2421768c8542b5acdb22ebee6ba"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "8661452972ef497ed18fc5ef81e3ab8aababe1e40ece7df049dd47c77e7b52e0"
 metafile = true
 
 [[files]]
@@ -81,6 +96,11 @@ hash = "aac37788ac1acd537a8b5b32fc2489cddf8034f196f7f38c0755837764b4f01d"
 metafile = true
 
 [[files]]
+file = "mods/jewelry.pw.toml"
+hash = "be5eeec2b66d3ec5be4bf4fc364a541b7e7041db93f07119e7fd3f509aec10f9"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "601d667f63f431085401af78127d81dacf44dcbf789abcb10eb6090474a89e58"
 metafile = true
@@ -101,8 +121,48 @@ hash = "5b96aa24048b1cea2e05b91954a25579f41c83c7008afd5c48426b579664288a"
 metafile = true
 
 [[files]]
+file = "mods/paladins-and-priests.pw.toml"
+hash = "2be21560cedf74cc33d19cd48cd7b85846bbf5ae38c45ac40f9eb0dbfd2683a7"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
+metafile = true
+
+[[files]]
+file = "mods/ranged-weapon-api.pw.toml"
+hash = "cbff9574beec124a49e11833fd3a4cb1f7d45542cdb26afda6a2b002c518e0d2"
+metafile = true
+
+[[files]]
+file = "mods/rogues-and-warriors.pw.toml"
+hash = "5005e1aa56446c8d119a008de80b1e7a9bcb8192eb49d1036344583b1b492d03"
+metafile = true
+
+[[files]]
+file = "mods/runes.pw.toml"
+hash = "e75baae1134e34434fc8fea4c6ee4272c8fe9d8ce30c2a7845c8d791fd1c078b"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "7434dfd1c4b2c2c96d9555faac9859cb78649fb71ed840094117978c99c815ba"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
+metafile = true
+
+[[files]]
+file = "mods/spell-engine.pw.toml"
+hash = "a4fda708be19bbfb1e2b25391dfe363d3fb521c2a99ca5b07f72d30610f13e45"
+metafile = true
+
+[[files]]
+file = "mods/spell-power.pw.toml"
+hash = "9e779c5e50daf3c34351bf5f1b99b5484f4d84024881522f6aa695b8c22b6be7"
 metafile = true
 
 [[files]]
@@ -116,8 +176,23 @@ hash = "fe8022c85a493055438172cdca2945f8bbc36d9d39a247df00e0670c7aaab585"
 metafile = true
 
 [[files]]
+file = "mods/structure-pool-api.pw.toml"
+hash = "233c25f5a235647ca991203968b7cf773f27819c8b5f02ed8cfe1f38cba770d3"
+metafile = true
+
+[[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "4371fb81920fbe53fafa0eef2d5f49338e20cd137575c86185658dfa94e32ac8"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true
+
+[[files]]
+file = "mods/wizards.pw.toml"
+hash = "3b422919b8c5ef901b7679134d00074a8a19c98c75c9072c50b0e656e885f2b8"
 metafile = true
 
 [[files]]
