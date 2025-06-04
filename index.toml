@@ -157,6 +157,16 @@ hash = "959e59afd5001f10992fae18b5230053698fbd84fd03aca80279c74fb244cdad"
 metafile = true
 
 [[files]]
+file = "mods/easyauth.pw.toml"
+hash = "e996b26b57d18eb28b24d2a208be095622be21cc0a6a7d1380a07240151ec369"
+metafile = true
+
+[[files]]
+file = "mods/easywhitelist.pw.toml"
+hash = "75fbd8a1dad03dc8b5999ce92bcfbedbf1e977bb4ee25db44bc2441aab3d437e"
+metafile = true
+
+[[files]]
 file = "mods/enhancedblockentities.pw.toml"
 hash = "add6231ab8479da7625a44683862906ea1dd6586e75c253e90eac7c082d1e8c2"
 metafile = true
