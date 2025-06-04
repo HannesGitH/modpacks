@@ -1,0 +1,13 @@
+name = "Middle-earth"
+filename = "Middle-earth-1.5.3-1.21.1-alpha.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aT3Teaxa/versions/LtHTW0iC/Middle-earth-1.5.3-1.21.1-alpha.jar"
+hash-format = "sha512"
+hash = "152ae747faa64876976fed836609d902225a11b23dc31380500e534954a47d3c963d426fa6b1c66b407549b6aa71a664e5faa212274a1a55d4881b51f71fa846"
+
+[update]
+[update.modrinth]
+mod-id = "aT3Teaxa"
+version = "LtHTW0iC"

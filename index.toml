@@ -242,6 +242,11 @@ hash = "427a352ffd706af44b8626175b3a735c8a70f8e42272abcf29a391843e28fd31"
 metafile = true
 
 [[files]]
+file = "mods/middle-earth.pw.toml"
+hash = "e6531a1592ff354bd7970d89febf83753738d66cc16300b97370d7ddda1b0545"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "0a8e6a58962ba40f696a44cb2d02355490bc831b49509f8083e3e7bc89b40052"
 metafile = true
